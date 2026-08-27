@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Der-Felix&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-FiSi%20(3.%20Lehrjahr)-informational?style=flat&color=blue" alt="Status" />
+  <img src="https://img.shields.io/badge/Business-Hosting%20%26%20Consulting-success?style=flat" alt="Business" />
   <img src="https://img.shields.io/badge/Focus-Homelab%20%26%20Linux-orange?style=flat" alt="Focus" />
   <img src="https://img.shields.io/badge/Languages-DE%20%7C%20EN-blueviolet?style=flat" alt="Languages" />
 </p>
@@ -11,10 +12,13 @@
 
 ### 👨‍💻 Über mich
 
-Ich bin Fachinformatiker für Systemintegration (FiSi) im 3. Lehrjahr und leidenschaftlicher Homelab- & Self-Hosting-Tüftler. Auf meinem YouTube-Kanal **Felix-Lab** teile ich Setups, Tutorials und Automatisierungen rund um Linux, Netzwerk, Container und Heimserver.
+Ich bin Fachinformatiker für Systemintegration (FiSi) im 3. Lehrjahr, leidenschaftlicher Homelab-Tüftler und betreibe nebenbei ein **Gewerbe für IT-Beratung & Hosting-Lösungen** über [cubik-systems.de](https://cubik-systems.de), um mir ein zweites Standbein aufzubauen. 
 
-* 🔭 **Aktuelle Projekte:** Homelab-Infrastruktur, Linux-Server-Skripte & ZimaOS
-* 📺 **Content Creator:** Tutorials & Setups auf [Felix-Lab](https://www.youtube.com/@Der_Felix_Lab)
+Auf meinem YouTube-Kanal **Felix-Lab** teile ich Setups, Tutorials und Automatisierungen rund um Netzwerke, Container und Serverinfrastruktur.
+
+* 💼 **Services & Business:** IT-Beratung, Setup-Planung & individuelles Web-/Server-Hosting
+* 🔭 **Aktuelle Projekte:** Homelab-Infrastruktur, Linux-Automatisierung & ZimaOS
+* 📺 **Content Creator:** Tutorials & Tech-Content auf [Felix-Lab](https://www.youtube.com/@Der_Felix_Lab)
 * 🌐 **Website:** [cubik-systems.de](https://cubik-systems.de)
 * 🧪 **Rick-Mode:** *„Rein ins Terminal, schnelles 20-Minuten-Abenteuer... und zack, ist die halbe Config neu geschrieben.“*
 
@@ -71,10 +75,10 @@ Ich bin Fachinformatiker für Systemintegration (FiSi) im 3. Lehrjahr und leiden
 ### 📬 Connect with me
 
 <p align="left">
+  <a href="https://cubik-systems.de" target="_blank">
+    <img src="https://img.shields.io/badge/Consulting_%26_Hosting-cubik--systems.de-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.youtube.com/@Der_Felix_Lab" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Felix--Lab-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://cubik-systems.de" target="_blank">
-    <img src="https://img.shields.io/badge/Website-cubik--systems.de-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
